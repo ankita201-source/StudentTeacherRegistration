@@ -19,3 +19,4 @@ HOW TO RUN:
 5. ViewRecordServlet will display stored records.
 
 Developed by: Ankita Panigrahi
+© 2025 Ankita Panigrahi – Unauthorized use or reproduction is **not permitted**.
